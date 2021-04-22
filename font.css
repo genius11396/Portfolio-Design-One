@@ -1,0 +1,23 @@
+@font-face
+{
+	font-family: font1;
+	src: url('fonts/Karla-Regular.ttf');
+}
+
+@font-face
+{
+	font-family: font2;
+	src: url('fonts/Karla-Bold.ttf');
+}
+
+@font-face
+{
+	font-family: font3;
+	src: url('fonts/Karla-BoldItalic.ttf');
+}
+
+@font-face
+{
+	font-family: font4;
+	src: url('fonts/Karla-Italic.ttf');
+}
